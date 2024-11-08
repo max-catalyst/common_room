@@ -34,6 +34,5 @@ function closePopup(){
 }
 
 WA.controls.disableRoomList();
-WA.controls.disableInviteButton();
 
 export {};
