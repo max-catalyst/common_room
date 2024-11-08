@@ -33,4 +33,6 @@ function closePopup(){
     }
 }
 
+WA.controls.disableRoomList();
+
 export {};
